@@ -1,8 +1,8 @@
 👋 Hi, I'm guizzin
  
-🌱 I’m currently learning NodeJs & Typescript
+🌱 I’m currently learning NodeJs, Typescript and React-Native
 
-💬 Ask me about: ReactJs, Javascript 
+💬 Ask me about: ReactJs, Javascript and VueJs
 <!--
 **guizzin/guizzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
